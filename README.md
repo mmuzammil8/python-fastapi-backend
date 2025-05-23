@@ -64,7 +64,7 @@ This repo comes with secure JWT-based login and user management logic, so you're
 
 This repository shows how I build clean, modular APIs that scale — with full-stack awareness and business context.
 
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01a2345678abcdefg)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~018583e3c5d031feba)
 
 ---
 
